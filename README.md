@@ -33,7 +33,7 @@
 
 - 🌱 I’m currently learning **Ruby, Python, React.js, Blockchain**
 
-- 🌐 Website [Sistemas ORTV](sistemasortv.com)
+- 🌐 Website(sistemasortv.com)
 
 
 <div align="left">
