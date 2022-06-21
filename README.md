@@ -1,10 +1,9 @@
 # OscarTorrez79
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm YouDevs</h1>
-    <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
-        Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
-        YouDevs.</h3>
+    <h1 align="center">Hi 👋, I'm OscarTorrez79</h1>
+    <h3 align="center">A passionate web fullstack developer. I like teaching what I learn in my Social
+        Media: YouTube, Twitch and TikTok where you can find me like a OscarTorrez79.</h3>
 </div>
 
 
@@ -13,11 +12,11 @@
         <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge"
             alt="Twitch Badge" />
     </a>
-    <a href="https://www.youtube.com/youdevs" target="_blank">
+    <a href="https://www.youtube.com/oscartorrez79" target="_blank">
         <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
             alt="Youtube Badge" />
     </a>
-    <a href="https://twitter.com/CarlosYouDevs" target="_blank">
+    <a href="https://twitter.com/torrez_oscar" target="_blank">
         <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
             alt="Twitter Badge" />
     </a>
@@ -27,7 +26,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
+- 📝 I regularly upload videos on [https://www.youtube.com/oscartorrez1979](https://www.youtube.com/oscartorrez1979)
 
 - 💬 Ask me about **PHP, Laravel, Python, Javascript**
 
@@ -60,8 +59,8 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Oscartorrez79&theme=onedark)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscartorrez79&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscartorrez79&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
