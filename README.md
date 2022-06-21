@@ -16,7 +16,7 @@
             alt="Youtube Badge" />
     </a>
     <a href="https://twitter.com/torrez_oscar" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/?color=blue&label=torrez_oscar&logo=twitter&style=for-the-badge"
+        <img src="https://img.shields.io/twitter/follow/torrez_oscar?color=blue&label=torrez_oscar&logo=twitter&style=for-the-badge"
             alt="Twitter Badge" />
     </a>
 </div>
