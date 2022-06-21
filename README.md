@@ -2,8 +2,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm OscarTorrez79</h1>
-    <h3 align="center">A passionate web fullstack developer. I like teaching what I learn in my Social
-        Media: YouTube, Twitch and TikTok where you can find me like a OscarTorrez79.</h3>
+    <h3 align="center">I'm a tech lover, I have a passion for all things tech. I love to learn new things and always be the first to try new things. I am excited to share my experience with you!.</h3>
 </div>
 
 
