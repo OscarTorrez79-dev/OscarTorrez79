@@ -8,7 +8,7 @@
 
 
 <div id="badges" align="center">
-  <a href="http://twitch.com/youdevs" target="_blank">
+  <a href="http://twitch.com/oscartorrez" target="_blank">
         <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge"
             alt="Twitch Badge" />
     </a>
