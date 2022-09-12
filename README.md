@@ -27,7 +27,7 @@
 
 - 📝 I regularly upload videos on [https://www.youtube.com/oscartorrez1979](https://www.youtube.com/oscartorrez1979)
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 💬 Ask me about **PHP, Laravel, Ruby, Python, Javascript**
 
 - 📫 How to reach me **oscarr2179@gmail.com**
 
