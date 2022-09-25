@@ -24,6 +24,9 @@
 ---
 
 ### 👨‍💻 About Me :
+<div id="header" align="center">
+<a href="https://app.daily.dev/Oscar_Torrez79"><img src="https://api.daily.dev/devcards/b66f131764f34b0aadf279176f7da710.png?r=rwc" width="400" alt="Oscar Torrez's Dev Card"/></a>
+</div>
 
 - 📝 I regularly upload videos on [https://www.youtube.com/oscartorrez1979](https://www.youtube.com/oscartorrez1979)
 
@@ -57,9 +60,11 @@
 ---
 
 ### 📊 My Stats :
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oscartorrez79&theme=onedark)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oscartorrez79&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscartorrez79&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
