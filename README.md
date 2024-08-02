@@ -36,7 +36,7 @@
 
 - 🌱 I’m currently learning **Ruby, Python, React.js, Blockchain**
 
-- 🌐 Website(torrezinfor.com)
+- 🌐 Website(torrezinfor.tech)
 
 
 <div align="left">
