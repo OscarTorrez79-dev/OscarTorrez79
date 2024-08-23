@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About Me :
 <div id="header" align="center">
-<a href="https://app.daily.dev/oscartorrez"><img src="https://api.daily.dev/devcards/v2/sU7S8wNVyguYj5qzfXdGy.png?type=default&r=n0w" width="356" alt="Tarjeta de desarrollador de Oscar Torrez"/></a>
+<a href="https://app.daily.dev/oscartorrez"><img src="<a href="https://app.daily.dev/oscartorrez"><img src="https://api.daily.dev/devcards/v2/sU7S8wNVyguYj5qzfXdGy.png?type=wide&r=soi" width="652" alt="Oscar Torrez's Dev Card"/></a>
 </div>
 
 - 📝 I regularly upload videos on [https://www.youtube.com/oscartorrez1979](https://www.youtube.com/oscartorrez1979)
