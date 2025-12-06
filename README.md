@@ -28,7 +28,7 @@
 <a href="https://app.daily.dev/oscartorrez"><img src="<a href="https://app.daily.dev/oscartorrez"><img src="https://api.daily.dev/devcards/v2/sU7S8wNVyguYj5qzfXdGy.png?type=wide&r=soi" width="652" alt="Oscar Torrez's Dev Card"/></a>
 </div>
 
-- 📝 I regularly upload videos on [https://www.youtube.com/oscartorrez1979](https://www.youtube.com/oscartorrez1979)
+- 📝 My perfil professional on [https://www.linkedin.com/in/oscar-torrez79](https://www.linkedin.com/in/oscar-torrez79)
 
 - 💬 Ask me about **PHP, Laravel, Ruby, Python, Javascript, wordpress**
 
@@ -60,7 +60,7 @@
 <div align="left">
     <h3>🔨 Work Recents:</h3>
     <div>
-        <img src="https://torrezinfor.space/" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="[https://torrezinfor.space/](https://torrezinfor.space/wp-content/uploads/2025/07/valodental-scaled.webp)" title="Valo Dental" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
